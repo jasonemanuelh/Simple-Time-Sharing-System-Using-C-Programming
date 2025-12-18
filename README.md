@@ -49,7 +49,7 @@ Program ini mengimplementasikan beberapa konsep utama dalam sistem operasi, yait
 # How to Compile & Run
 1. Gunakan perintah "gcc -o timeshare timeshare.c" di terminal Linux
 
-2. Setelah dikompilasi, jalankan program dengan perintah "./timeshare? 
+2. Setelah dikompilasi, jalankan program dengan perintah "./timeshare"
 
 3. Untuk menghentikan program, tekan CTRL + C
 
